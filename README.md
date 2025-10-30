@@ -1,6 +1,6 @@
 # Solana Staking with Referral DApp
 
-![alt text](https://www.daulathussain.com/wp-content/uploads/2025/10/Create-Deploy-Solana-Staking-with-Referral-DApp-Rust-Anchor-Smart-Contract-Next.js-TypeScript-Full-Project.png)
+![alt text](https://www.daulathussain.com/wp-content/uploads/2025/10/Create-Deploy-Solana-Staking-with-Referral-DApp-Rust-Anchor-Smart-Contract-Next.js-TypeScript-Full-Project.jpg)
 
 - [Final Source Code]()
 
